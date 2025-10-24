@@ -1,1 +1,6 @@
-feat: initial project setup (v1.0.0)
+commit: Update README.md with corrected project structure and utils/__init__.py
+
+- Added utils/__init__.py to the project structure diagram
+- Updated import examples to reflect proper utils module usage
+- Clarified that interactive UI handlers are exported via utils/__init__.py
+- Improved documentation accuracy and consistency with actual codebase
